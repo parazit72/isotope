@@ -23,6 +23,7 @@
         // include default layout modes
         './layout-modes/masonry',
         './layout-modes/fit-rows',
+        './layout-modes/fit-centered',
         './layout-modes/vertical'
       ],
       function( Outlayer, getSize, matchesSelector, utils, Item, LayoutMode ) {
